@@ -1,0 +1,94 @@
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-popup{
+ position: relative;
+ padding: 32px;
+ width: 100%;
+ max-width: 640px;
+ background-color:rgb(252, 252, 252) ;
+ display: block;
+ height: 500px;
+ border-radius: 50px;
+}
+.inner-popup .Close-btn{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    border: none;
+    font-size: 30px;
+    background-color:rgb(252, 252, 252) ;
+
+}
+.email-id {
+    width: 566px;
+    height: 59px;
+    margin: 20px 50px;
+    background-color: #E5EBED;
+    border-radius: 0;
+    border-width: 0;
+    font-family:  'Assistant,-apple-s';
+    font-size: 16px;
+}
+.pass{
+    width: 566px;
+    height: 59px;
+    margin: 20px 50px;
+    font-size: 16px;
+    background-color: #E5EBED;
+    border-radius: 0;
+    border-width: 0;
+    font-family:  'Assistant,-apple-s';
+}
+.h3text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #1D2651;
+    font-size: 23px;
+    font-weight: 500;
+    letter-spacing: .0001px;
+    margin: 10px 275px;
+    font-family:  'Assistant,-apple-s';
+}
+.Forgot{
+    color: slategray;
+    width: 173px;
+    height: 25px;
+    margin: 20px 250px;
+    font-family:  'Assistant,-apple-s';
+}
+.Forgot button{
+    border: none;
+    font-size: 18px;
+    background-color:rgb(252, 252, 252) ;
+}
+.Submit-btn{
+    width: 566px;
+    height: 59px;
+    margin: 20px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightsalmon;
+    font-weight: 500px;
+    letter-spacing: 4px;
+    margin-top: 40px;
+    
+}
+.Submit-btn button{
+    border: none;
+    outline: none;
+    background-color: rgb(241, 164, 133);
+    letter-spacing: 6px;
+    font-weight: 500px;
+    font-family:  'Assistant,-apple-s';
+}

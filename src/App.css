@@ -1,0 +1,170 @@
+.headersection{
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+}
+.center ul li {
+  list-style: none;
+  display: inline-flex;
+  margin: 0px 20px;
+  font-family:  'Assistant,-apple-syatem';
+  font-size: 15px;
+  font-weight: bold;
+}
+.image{
+  width: 63px;
+  height: 46px;
+}
+.center{
+  width: 600px;
+}
+.right {
+  width: 200px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 250px;
+  font-family:  'Assistant,-apple-s';
+  font-size: 17px;
+  font-weight: bold;
+}
+.Sign-btn{
+  border: none;
+  outline: none;
+  font-size: 1.5rem;
+  border-radius: 10px;
+}
+button:hover{
+  cursor: pointer;
+}
+.testbox{
+  height: 30px;
+  width: 400px;
+}
+
+.Banner1 img{
+  width: 450px;
+  height: 206px;
+}
+.Banner1{
+  display: flex;
+  padding: 0px 20px;
+  margin: 10px 30px;
+}
+.Banner2{
+  display: flex;
+}
+.Banner2 img{
+  width: 730px;
+  height: 436px;
+}
+.text img{
+ width: 1460px;
+ height: 153px;
+}
+.Footer {
+  display: flex;
+  padding-left: 150px;
+}
+.online-shopping {
+  font-family: 'Assistant,-apple-s';
+  width: 160px;
+  padding: 0px 0px 5px;
+}
+.online-shoppinglist ul li {
+  list-style: none;
+  display: block;
+  margin: 10px 0px;
+}
+.online-shopping h5 {
+  padding-left: 40px;
+  font-family: 'Assistant,-apple-s';
+  width: 98px;
+}
+.CUSTOME-POLICIES{
+  width: 162px;
+  height: 304px;
+  padding: 0px 0px 5px;
+
+}
+.listofCUSTOMER-POLICIES ul li{
+  margin: 10px 0px;
+  list-style: none;
+}
+.CUSTOME-POLICIES h5{
+  padding-left: 40px;
+}
+.Experience{
+  width: 380px;
+  height: 175px;
+  margin-left: 10px;
+}
+.Googleimg img {
+  width: 139px ;
+  height: 42px;
+}
+.FBimg img {
+  width: 20px;
+  height: 20px;
+}
+.trust img{
+ width: 48px;
+ height: 40px;
+ padding-right: 10px;
+
+}
+.trust {
+  width: 250px;
+  height: 159px;
+  padding: 20px 0px 5px;
+  
+}
+.trust1{
+  display: flex;
+}
+.trust2 {
+  display: flex;
+}
+.hrtag{
+  padding-top: 20px;
+}
+.H5 {
+  width: auto;
+  height: 50px;
+  padding-left: 30px;
+}
+.H5 h5{
+  font-family: 'Assistant,-apple-s';
+  font-size: 29px;
+}
+.Biggest-deals{
+  display: flex;
+  padding: 20px 60px;
+  justify-content: space-evenly;
+}
+.Biggest-deals2{
+  display: flex;
+  padding: 20px 60px;
+  justify-content: space-evenly;
+}
+.Bags{
+  width: auto;
+  height: 50px;
+  padding-left: 30px;
+}
+.Bags h5 {
+  font-family: 'Assistant,-apple-s';
+  font-size: 29px;
+}
+.Categories img{
+  width: 200px;
+  height: 240px;
+}
+.Categories{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0px 30px 0px 60px;
+  margin: 30px 0px;
+}
